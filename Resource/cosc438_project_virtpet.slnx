@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cosc438_project_virtpet/cosc438_project_virtpet.vcxproj" Id="b8233fe6-a9b6-45c1-ad27-7600081adc53" />
+</Solution>
